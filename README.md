@@ -1,2 +1,2 @@
 # python_crawler
-some crawler tests
+This is a repository about some crawler tests.
