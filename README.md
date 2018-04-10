@@ -1,5 +1,5 @@
 # python_crawler
-This is a repository about some python crawler demo.
+This is a repository about some python crawler demos.
 
 - 1-bing_com_search_result.py
 	-- Using bs4 to extract data from bing.com search results.
